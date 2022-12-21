@@ -34,8 +34,9 @@ We pre-process the images using Numpy and OpenCV. We then use Matplotlib and Sea
 We use the model folder to store the model code. We then use the python flask server to deploy our model. Finally, we use HTML/CSS/Javascript to create our UI.
 
 
-Output 
+## Output and Execution Video 
 
+https://user-images.githubusercontent.com/89354259/208937247-4b5a8c20-ec71-4715-aad2-cb377646593b.mp4
 
 
 ## 🚀 About Me
