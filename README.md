@@ -1,4 +1,4 @@
-# Sport-s-Person-s-image-Classing-
+# Celebrity Image Classifier
 In this project i have to classify sports person by their face. So we to collect the dataset and clean and then predict by using ML algorithm
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
